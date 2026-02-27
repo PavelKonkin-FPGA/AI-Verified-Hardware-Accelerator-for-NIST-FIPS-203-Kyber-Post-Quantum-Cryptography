@@ -1,6 +1,5 @@
 # AI-Verified Hardware Accelerator for Kyber (FIPS 203)
 
-![Performance](Crypto_analyz\docs\performance.png)
 
 ## 1. Overview
 This repository contains a high-performance hardware accelerator for the **Number Theoretic Transform (NTT)**, a critical computational bottleneck in the **Kyber (NIST FIPS 203)** Post-Quantum Cryptography (PQC) standard. The design is optimized for Intel (Altera) Cyclone 10 LP FPGAs and features a novel **AI-Driven Design Flow** for automated verification and anomaly detection.
